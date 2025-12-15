@@ -48,8 +48,10 @@ kilangi-homepage/
 │   └── main.js
 │
 ├── assets/
+|   |── icons/
 │   └── images/
 │
 └── README.md
+
 
 
