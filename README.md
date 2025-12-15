@@ -5,10 +5,10 @@ A pixel-accurate, responsive eCommerce homepage built using **HTML, CSS, and Van
 This project focuses on clean UI implementation, layout accuracy, and subtle interactions without using any frameworks or libraries.
 
 ## 🔗 Live Demo
-👉 
+👉 https://kilangi-jewellery.vercel.app/
 
 ## 📦 GitHub Repository
-👉 
+👉 https://github.com/AsthaPitambarwale/Kilangi-Jewellery
 
 ## 🛠️ Tech Stack
 
@@ -41,7 +41,6 @@ kilangi-homepage/
 │
 ├── index.html
 ├── css/
-│   ├── reset.css
 │   ├── variables.css
 │   └── style.css
 │
@@ -52,3 +51,4 @@ kilangi-homepage/
 │   └── images/
 │
 └── README.md
+
