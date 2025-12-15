@@ -1,0 +1,10 @@
+:root {
+  --gold: #C9A24D;
+  --black: #111;
+  --gray: #666;
+  --light: #f6f6f6;
+  --white: #fff;
+
+  --heading: 'Playfair Display', serif;
+  --body: 'Inter', sans-serif;
+}
