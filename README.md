@@ -1,6 +1,6 @@
 # Kilangi Jewellery – Homepage
 
-A pixel-accurate, responsive eCommerce homepage built using **HTML, CSS, and Vanilla JavaScript**, based strictly on the provided Desktop and Mobile design PDFs.
+A pixel-accurate, responsive eCommerce homepage built using **HTML, CSS, and Vanilla JavaScript**.
 
 This project focuses on clean UI implementation, layout accuracy, and subtle interactions without using any frameworks or libraries.
 
@@ -51,4 +51,5 @@ kilangi-homepage/
 │   └── images/
 │
 └── README.md
+
 
